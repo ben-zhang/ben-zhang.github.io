@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Ben Zhang
+title: 
 email: b334zhan@uwaterloo.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -30,6 +30,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ben-zhang
 
 # Build settings
+# theme: "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 
 plugins:
