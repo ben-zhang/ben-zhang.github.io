@@ -18,7 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 
+title: Ben Zhang
+author: Ben Zhang
 email: b334zhan@uwaterloo.ca
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -31,10 +32,25 @@ github_username:  ben-zhang
 
 # Build settings
 # theme: "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+# theme: plainwhite
+remote_theme: thelehhman/plainwhite
 
 plugins:
-  - jekyll-feed
+    # - jekyll-seo-tag 
+    - jekyll-feed
+
+permalink: /posts/:title/
+plainwhite:
+
+  name: Ben Zhang
+  tagline: 3rd Year Waterloo CS
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    github:  ben-zhang
+    linkedIn: in/benzhang # format: locale/username
+    
+  style: black
 
 # Exclude from processing.
 # The following items will not be processed, by default.
