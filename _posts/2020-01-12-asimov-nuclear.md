@@ -2,7 +2,7 @@
 layout: post
 title:  "Asimov's Nuclear Promise"
 date:   2020-01-12 2:41:30 -0500
-categories: Miscellaneous
+categories: Reading
 ---
 # Isaac Asimov's Foundation
 Isaac Asimov’s Foundation series is set far in the future, featuring an advanced society on the brink of collapse. Within the society, there are people called psychohistorians who study the past in order to predict the future. Hari Seldon, a prominent psychohistorian, observes that after the collapse of the empire there will likely be 30,000 centuries of “barbarism” - that is, a loss of scientific and cultural progress.
