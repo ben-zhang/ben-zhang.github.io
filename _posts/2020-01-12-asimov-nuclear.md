@@ -1,26 +1,23 @@
 ---
 layout: post
-title:  "Asimov's Nuclear Promise"
-date:   2020-01-12 2:41:30 -0500
+title:  "Nukes in Space"
+date:   2020-01-14 10:23:10 -0500
 categories: Reading
 ---
-Recently, I began reading Isaac Asimov's Foundation.
+Exerting political control using nuclear weaponry in Isaac Asimov's Foundation.
 
-# Isaac Asimov's Foundation
-Isaac Asimov’s Foundation series is set far in the future, featuring an advanced society on the brink of collapse. Within the society, there are people called psychohistorians who study the past in order to predict the future. Hari Seldon, a prominent psychohistorian, observes that after the collapse of the empire there will likely be 30,000 centuries of “barbarism” - that is, a loss of scientific and cultural progress.
+Recently, I released a blog post discussing my initial thoughts regarding Isaac Asimov's Foundation, discussing briefly about the use of nuclear technology in the novel. I'd like to dive deeper into this topic and think a little bit more about the **symbolism** of nuclear power and nuclear weapons in Foundation.
 
-Seldon devises a plan to reduce the length of the “dark ages”, thus also the loss of cultural and scientific progress, using psychohistory. He posits that the establishment of a “Foundation” dedicated to guarding such history and leading the way for a new Galactic Empire 1000 years after the fall will be possible, given certain circumstances. 
+## Materialist Symbolism
+Before I start discussing symbolism, I think it's important to explore the specific kind of symbolism that Asimov employs in Foundation. **Materialism** is a specific kind of symbolism in which physically manifst objects are represent a more abstract concept, idea, or message.
 
-The Foundation series is largely a retelling of the plan Seldon puts in place in order to save society, set over many centuries. The "Foundation" that Seldon establishes is meant to create order amidst the decay of the Galactic Empire using superior scientific knowledge, prevailing over many political challenges using advanced technology. The novel is organized into five unit texts, each a separate short story set within the same timeline.
+Science fiction, as a genre, is particularly materialist. Adam Roberts, a literary critic, aptly describes the phenomenon in his book entitled _Science Fiction_ the following way:
 
-## Nuclear Power in Foundation
-Foundation was published in 1951, shortly after the end of World War 2. As an American Jew who was alive and cognizant at the time, Asimov was horrified by the barbaric cruelty displayed by the Axis powers. He has described the writing of Foundation as an outlet for such horror in the years following the war - the story, after all features a war that is already won by the “right side”.
+"\[Science Fiction\] gives us a unique version of the symbolist approach, one where the symbol is drained of transcendental or metaphysical aura and relocated back in the material world."
 
-In this vein, it makes some sense that, despite the novel being set far in the future, nuclear power dominates the struggle for power. Unlike World War 2, the protagonists of the story, the Foundation, begin the series with nuclear power. As a maintainer of scientific knowledge, it is a defining characteristic of the Foundation to have more advanced technology than its adversaries.
+Unlike other genres of texts (in the Bakhtinian sense ;D), symbols in science fiction tend to be very physically manifest. In Foundation, one particularly prominent symbol is nuclear technology.
 
-Foundation may then be viewed as a demonstration of the idea that science and technology can drive societal progress by providing those in power with a means to project control over the massses. Throughout the novel, the planets outside of the Foundation are often called "barbaric" for their lack of understanding regarding science and penchant towards warfare.
+## Nukes as Symbols in Foundation
+No matter which era in the five Foundation unit texts, the incumbent leader of the Foundation establishes power over the surrounding territories using nuclear power. 
 
-The Foundation exercises control over its neighbouring planets by exploiting their lack of nuclear technology. To provide an idea of the level of sophistication such technology entails roughly 50 years into Hari Seldon's 1000 year plan:
-- The Foundation possesses nuclear power (whether this is fission or fusion, we do not know)
-- Nuclear weapons still exist in the universe, but it is not clear what this entails.
-
+What does this mean?
