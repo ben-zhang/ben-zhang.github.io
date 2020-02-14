@@ -5,6 +5,10 @@ date:   2020-02-14 12:01:03 -0500
 categories: Mathematics
 ---
 
+Computational methods for solving ODEs in Python
+
+# IVPs using Scipy
+
 Python's `scipy` library provides several computational methods of solving a variety of problems. Today, I learned how to solve first-order IVP problems using `scipy.integrate.solve_ivp`.
 
 Consider a simple example: the position of a golf ball as it travels through the air.
